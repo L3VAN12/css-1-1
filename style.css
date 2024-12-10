@@ -1,0 +1,62 @@
+h1 {
+    color: blueviolet;
+    font-size: 64px;
+    padding-top: 24px;
+    text-align: center;
+    margin: 30px;
+    margin-bottom: 25px;
+}
+#offer {
+    background-color: #FFE8E8;
+    color: red;
+    font-size: 32px;
+    max-width: 420px;
+    padding-top: 24px;
+    padding-right: 40px;
+    padding-bottom: 24px;
+    margin-bottom: 20px;
+}
+#offerone {
+    max-width: 820px;
+    font-size: 40px;
+    color: #85647B;
+    padding: 24px 40px;
+    border-left: #C11574;
+    border-top: 1px solid green;
+    border-right: 6px solid blue;
+    border-bottom: 1px solid blue;
+    border-left: 4px solid #C11574;
+    text-align: center;
+    margin-bottom: 25px;
+}
+#offertwo {
+    background-color: #FFE8E8;
+    color: #85647B;
+    padding: 24px 40px;
+    max-width: 820px;
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 25px;
+
+}
+span {
+    color: #FF4405;
+    font-size: 40px;
+    text-decoration: underline 2px;
+    padding: 5px;
+}
+#offerthree {
+    max-width: 820px;
+    font-size: 32px;
+    padding: 24px 40px;
+    border-top: 2px solid blue;
+    border-right: 2px solid blue;
+    border-bottom: 2px solid blue;
+    border-left: 2px solid blue;
+    color: #0064CE;
+    text-align: center;
+    margin-bottom: 25px;
+}
+#marginpx{
+    margin-left: 30px;
+}
